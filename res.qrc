@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icons/button_master_template.gif</file>
+        <file>icons/button_make_doc.gif</file>
+    </qresource>
+</RCC>
