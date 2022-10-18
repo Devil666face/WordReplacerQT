@@ -1,4 +1,4 @@
-QT       += core gui sql
+QT       += core gui printsupport sql axcontainer widgets xml svg network positioning serialport
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
